@@ -1,0 +1,12 @@
+Salesperson,Product,Region,Date,Item unit,No. Items,Total Sale
+Salesperson 1,Chair,North,1/1/2020,567,5,12345
+Salesperson 2,Table,East,1/2/2020,123,6,65489
+Salesperson 1,,North,1/3/2020,653,2,76425
+Salesperson 3,Office chair,South-East,1/4/2020,666,9,98746
+Salesperson 4,Dining table,West,,309,6,10749
+Salesperson 4,Table,West,1/6/2020,457,1,56463
+Salesperson 2,Premium table,,1/7/2020,974,7,23456
+Salesperson 1,Couch,North,1/8/2020,921,8,76934
+Salesperson 3,,South-East,1/9/2020,916,5,98756
+Salesperson 2,Coffee Table,East,1/10/2020,545,9,76543
+Salesperson 1,Coffee Table,,1/11/2020,666,4,35744
